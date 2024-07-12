@@ -1,5 +1,5 @@
 ## Hi there 👋 I am Tucker
-
+I am a student at Virginia Tech
 <!--
 **tucker-v/tucker-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
