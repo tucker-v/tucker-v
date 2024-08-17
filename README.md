@@ -5,6 +5,12 @@
   </a>
 </div>
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/tucker-vann-48bb20314/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 ## About Me
 I am a student at Virginia Tech, where I aspire to be a software engineer that focuses in backend development.
 - ⚡️In my freetime, I solve problems on LeetCode
