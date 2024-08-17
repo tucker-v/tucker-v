@@ -19,4 +19,4 @@ I am a student at Virginia Tech, where I aspire to be a software engineer that f
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tucker-v&theme=dark&background=000000)](https://git.io/streak-stats)
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tucker-v&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHZtNGo5bXBnYXZ0d2V1aHYzejR2eGI1MTQwZndlcGpkYzNsZGU5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tuCFp8rod0x3O/giphy.webp" width=250 height=150/>
+ <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHZtNGo5bXBnYXZ0d2V1aHYzejR2eGI1MTQwZndlcGpkYzNsZGU5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tuCFp8rod0x3O/giphy.webp"/>
